@@ -27,8 +27,8 @@ DecisionTreeML.ipynb — main Jupyter Notebook with code, narrative, and visual 
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone
+cd repo-name
 
 
 Create & activate a virtual environment (recommended)
